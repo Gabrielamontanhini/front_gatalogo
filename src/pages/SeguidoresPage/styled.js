@@ -5,7 +5,7 @@ width: 100%;
 height: 90%;
 display:flex ;
 flex-direction: column;
-background-color: azure;
+background-color: white;
 align-items: center;
 .seguidores_scroll{
     width: 100%;

@@ -4,7 +4,7 @@ export const NovoPostContainer = styled.div`
 width: 100%;
 height: 90%;
 overflow-y: scroll;
-background-color: aquamarine;
+background-color: white;
 display: flex;
 flex-direction: column;
 align-items: center;
@@ -27,7 +27,7 @@ form{
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    background-color: palegoldenrod;
+    background-color: pink;
     h2{
         width: 100%;
         display: flex;
